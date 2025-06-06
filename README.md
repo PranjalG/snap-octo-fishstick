@@ -1,16 +1,20 @@
 # snap
 
-A new Flutter project.
+Flutter and Dart UI practice. 
+Login using form fields and implementing form field validations.
+Beautiful UI using images and alignment.
 
-## Getting Started
+# Setup 
 
-This project is a starting point for a Flutter application.
+1. Clone the repo: git clone cd flutter_article_app
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies: flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app: flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+
+1. Splash screen with a single Icon
+   
+<img src="https://github.com/user-attachments/assets/2fe9e0e5-dfa5-463b-ad02-556ce9c24ccd" alt="detail_screen" height="500"/>
+
